@@ -1,0 +1,27 @@
+Author : Kapil Sethi
+==================
+
+Calabash iOS set up and sample feature:
+
+-- Clone the sample app from xamarin git repo
+-- Check the ruby version on machine (ruby -v). should be 1.8 or above
+-- Go to the ios project folder (which has .csproj file for ios app) and install calabash framework (https://github.com/calabash/calabash-ios/downloads) 
+-- In the Xamarin studio, on the IOS project of the app, 
+configure the option to force load the calabash-framework. The reason that we have to do
+this for calabash-ios is because the calabash server runs as part of the app itself(rather than
+in android the instrumentation server will run on a seperate app). And its better we
+configure this in Debug configuration so that release builds does not have this.
+-- Run the query in console to make sure that the test server has started. Another way to check - run the ios app in the simulator and check the output window . it will have '.....Bonjour Service Published: domain(local.) type(_http._tcp.) name(Calabash Server)' message
+-- Run calabash-ios gen to create the features folder 
+-- Write cucumber features
+-- Update the APP_BUNDLE_PATH in launcher file to the app path (bin/debug/??.app). this will invoke the app from the mentioned path else we will get the error
+-- Run the cucumber feature
+
+--------------------------------------
+
+Phoneword App Authors : Craig Dunn, Chris Hardy
+==================
+
+Very simple example of sharing c# code across four platforms: iOS, Android, Windows Phone 7 and Windows 8. Also includes a command-line version as a 'test harness'.
+
+App functionality is to convert telephone number 'words' into digits (eg 1-800-FLOWERS to the actual phone number).

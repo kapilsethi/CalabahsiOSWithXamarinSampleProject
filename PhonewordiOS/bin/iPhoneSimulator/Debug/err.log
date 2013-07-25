@@ -1,0 +1,249 @@
+2013-07-24 02:00:12.668 PhonewordiOS[7493:c07] Creating the server: <LPHTTPServer: 0xc14e270>
+2013-07-24 02:00:12.670 PhonewordiOS[7493:c07] simroot: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+2013-07-24 02:00:12.672 PhonewordiOS[7493:c07] Started LPHTTP server on port 37265
+2013-07-24 02:00:12.682 PhonewordiOS[7493:2603] MonoTouch: Socket error while connecting to MonoDevelop on 127.0.0.1:10000: Connection refused
+2013-07-24 02:00:13.311 PhonewordiOS[7493:2003] Bonjour Service Published: domain(local.) type(_http._tcp.) name(Calabash Server)
+2013-07-24 02:02:51.053 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:02:51.059 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UIButton'"
+)
+2013-07-24 02:02:51.059 PhonewordiOS[7493:c07] view Translate cent: {160, 166.5}
+2013-07-24 02:02:51.060 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:02:51.061 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:02:51.061 PhonewordiOS[7493:c07] view Call cent: {160, 228.5}
+2013-07-24 02:02:51.061 PhonewordiOS[7493:c07] hit test -> <UIView: 0x130515a0; frame = (0 20; 320 460); autoresize = RM+BM; layer = <CALayer: 0x13051650>>
+2013-07-24 02:02:51.062 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:14:41.285 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:14:41.286 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UIView'",
+    "with marked:'Phoneword'"
+)
+2013-07-24 02:14:41.287 PhonewordiOS[7493:c07] view Phoneword cent: {160, 42.5}
+2013-07-24 02:14:41.288 PhonewordiOS[7493:c07] hit test -> <UINavigationBar: 0x13051740; frame = (0 0; 320 44); autoresize = W+BM; gestureRecognizers = <NSArray: 0x130535b0>; layer = <CALayer: 0x13051f10>>
+2013-07-24 02:14:41.288 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.380 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:26:57.381 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UIView'"
+)
+2013-07-24 02:26:57.381 PhonewordiOS[7493:c07] view (null) cent: {160, 250}
+2013-07-24 02:26:57.382 PhonewordiOS[7493:c07] hit test -> <UIView: 0x130515a0; frame = (0 20; 320 460); autoresize = RM+BM; layer = <CALayer: 0x13051650>>
+2013-07-24 02:26:57.382 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.383 PhonewordiOS[7493:c07] view (null) cent: {160, 42}
+2013-07-24 02:26:57.383 PhonewordiOS[7493:c07] hit test -> <UINavigationBar: 0x13051740; frame = (0 0; 320 44); autoresize = W+BM; gestureRecognizers = <NSArray: 0x130535b0>; layer = <CALayer: 0x13051f10>>
+2013-07-24 02:26:57.384 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.384 PhonewordiOS[7493:c07] view (null) cent: {160, 42}
+2013-07-24 02:26:57.384 PhonewordiOS[7493:c07] hit test -> <UINavigationBar: 0x13051740; frame = (0 0; 320 44); autoresize = W+BM; gestureRecognizers = <NSArray: 0x130535b0>; layer = <CALayer: 0x13051f10>>
+2013-07-24 02:26:57.385 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.385 PhonewordiOS[7493:c07] view (null) cent: {160, 65.5}
+2013-07-24 02:26:57.386 PhonewordiOS[7493:c07] hit test -> <UIView: 0x130515a0; frame = (0 20; 320 460); autoresize = RM+BM; layer = <CALayer: 0x13051650>>
+2013-07-24 02:26:57.386 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.387 PhonewordiOS[7493:c07] view Phoneword cent: {160, 42.5}
+2013-07-24 02:26:57.387 PhonewordiOS[7493:c07] hit test -> <UINavigationBar: 0x13051740; frame = (0 0; 320 44); autoresize = W+BM; gestureRecognizers = <NSArray: 0x130535b0>; layer = <CALayer: 0x13051f10>>
+2013-07-24 02:26:57.387 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.388 PhonewordiOS[7493:c07] view Enter a phoneword: cent: {95, 81.5}
+2013-07-24 02:26:57.388 PhonewordiOS[7493:c07] hit test -> <UIView: 0x130515a0; frame = (0 20; 320 460); autoresize = RM+BM; layer = <CALayer: 0x13051650>>
+2013-07-24 02:26:57.389 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.389 PhonewordiOS[7493:c07] view  cent: {160, 115.5}
+2013-07-24 02:26:57.390 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.390 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.391 PhonewordiOS[7493:c07] view (null) cent: {160, 115.5}
+2013-07-24 02:26:57.391 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.391 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.392 PhonewordiOS[7493:c07] view (null) cent: {24, 115.5}
+2013-07-24 02:26:57.392 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.393 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.393 PhonewordiOS[7493:c07] view (null) cent: {160, 115.5}
+2013-07-24 02:26:57.394 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.394 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.394 PhonewordiOS[7493:c07] view (null) cent: {296, 115.5}
+2013-07-24 02:26:57.395 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.395 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.395 PhonewordiOS[7493:c07] view (null) cent: {20, 100}
+2013-07-24 02:26:57.396 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.396 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.397 PhonewordiOS[7493:c07] view (null) cent: {116.5, 115}
+2013-07-24 02:26:57.397 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.397 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.398 PhonewordiOS[7493:c07] view (null) cent: {160, 115.5}
+2013-07-24 02:26:57.398 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:26:57.398 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.399 PhonewordiOS[7493:c07] view Translate cent: {160, 166.5}
+2013-07-24 02:26:57.399 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:26:57.399 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.400 PhonewordiOS[7493:c07] view (null) cent: {160, 166.5}
+2013-07-24 02:26:57.400 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:26:57.400 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.401 PhonewordiOS[7493:c07] view (null) cent: {160, 167}
+2013-07-24 02:26:57.401 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:26:57.401 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.402 PhonewordiOS[7493:c07] view Translate cent: {159.5, 166.5}
+2013-07-24 02:26:57.402 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:26:57.402 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.403 PhonewordiOS[7493:c07] view Call 1-855-23456 cent: {160, 228.5}
+2013-07-24 02:26:57.403 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0xed02b10; frame = (20 190; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0xed02ab0>>
+2013-07-24 02:26:57.403 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.404 PhonewordiOS[7493:c07] view (null) cent: {160, 228.5}
+2013-07-24 02:26:57.404 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0xed02b10; frame = (20 190; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0xed02ab0>>
+2013-07-24 02:26:57.404 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.405 PhonewordiOS[7493:c07] view (null) cent: {160, 229}
+2013-07-24 02:26:57.405 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0xed02b10; frame = (20 190; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0xed02ab0>>
+2013-07-24 02:26:57.405 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.406 PhonewordiOS[7493:c07] view Call 1-855-23456 cent: {159.5, 228.5}
+2013-07-24 02:26:57.406 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0xed02b10; frame = (20 190; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0xed02ab0>>
+2013-07-24 02:26:57.406 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.406 PhonewordiOS[7493:c07] view (null) cent: {160, 372}
+2013-07-24 02:26:57.407 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.407 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.407 PhonewordiOS[7493:c07] view (null) cent: {160, 372}
+2013-07-24 02:26:57.408 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.408 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.408 PhonewordiOS[7493:c07] view (null) cent: {160, 372}
+2013-07-24 02:26:57.409 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.409 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.409 PhonewordiOS[7493:c07] view (null) cent: {160, 372}
+2013-07-24 02:26:57.410 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.410 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.410 PhonewordiOS[7493:c07] view (null) cent: {160, 372}
+2013-07-24 02:26:57.410 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.411 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.411 PhonewordiOS[7493:c07] view (null) cent: {21, 404}
+2013-07-24 02:26:57.411 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.412 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.412 PhonewordiOS[7493:c07] view (null) cent: {40, 458}
+2013-07-24 02:26:57.412 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.413 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.413 PhonewordiOS[7493:c07] view (null) cent: {160, 458}
+2013-07-24 02:26:57.413 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.413 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.414 PhonewordiOS[7493:c07] view (null) cent: {280, 458}
+2013-07-24 02:26:57.414 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.414 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:26:57.415 PhonewordiOS[7493:c07] view (null) cent: {299, 404}
+2013-07-24 02:26:57.415 PhonewordiOS[7493:c07] hit test -> <UIKeyboardLayoutStar: 0x130b2320; frame = (0 0; 320 216); layer = <CALayer: 0x130b2500>>
+2013-07-24 02:26:57.415 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:28:25.011 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:28:25.012 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UITextField'"
+)
+2013-07-24 02:28:25.012 PhonewordiOS[7493:c07] view  cent: {160, 115.5}
+2013-07-24 02:28:25.013 PhonewordiOS[7493:c07] hit test -> <UITextField: 0xed00850; frame = (20 80; 280 31); text = '1-855-ADGJM'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; gestureRecognizers = <NSArray: 0x13050130>; layer = <CALayer: 0xed007d0>>
+2013-07-24 02:28:25.013 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:29:34.793 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:29:34.794 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UIButton'"
+)
+2013-07-24 02:29:34.795 PhonewordiOS[7493:c07] view Translate cent: {160, 166.5}
+2013-07-24 02:29:34.795 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:29:34.796 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:29:34.796 PhonewordiOS[7493:c07] view Call 1-855-23456 cent: {160, 228.5}
+2013-07-24 02:29:34.796 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0xed02b10; frame = (20 190; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0xed02ab0>>
+2013-07-24 02:29:34.797 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:29:44.912 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+2013-07-24 02:29:44.913 PhonewordiOS[7493:c07] Parsed UIScript as
+(
+    "view:'UIButton'",
+    "with marked:'Translate'"
+)
+2013-07-24 02:29:44.914 PhonewordiOS[7493:c07] view Translate cent: {160, 166.5}
+2013-07-24 02:29:44.914 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:29:44.914 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:30:28.487 PhonewordiOS[7493:c07] Supports Method GET at Path /version (segment version): 1
+2013-07-24 02:30:28.491 PhonewordiOS[7493:c07] Supports Method POST at Path /play (segment play): 1
+2013-07-24 02:30:28.492 PhonewordiOS[7493:c07] view Translate cent: {160, 166.5}
+2013-07-24 02:30:28.492 PhonewordiOS[7493:c07] hit test -> <UIRoundedRectButton: 0x13050ff0; frame = (20 128; 280 37); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x130510c0>>
+2013-07-24 02:30:28.493 PhonewordiOS[7493:c07] window rect: {{0, 0}, {320, 480}}
+2013-07-24 02:30:28.493 PhonewordiOS[7493:c07] Center {160, 166.5}
+2013-07-24 02:30:28.494 PhonewordiOS[7493:c07] Loading events
+2013-07-24 02:30:28.494 PhonewordiOS[7493:c07] Playback
+2013-07-24 02:30:28.546 PhonewordiOS[7493:c07] Playback complete
+2013-07-24 02:31:02.015 PhonewordiOS[7493:c07] Supports Method POST at Path /map (segment map): 1
+
+Unhandled Exception:
+0   PhonewordiOS                        0x000e323e mono_handle_exception_internal_first_pass + 2190
+1   PhonewordiOS                        0x000e4c82 mono_handle_exception_internal + 1602
+2   PhonewordiOS                        0x000e57cf mono_handle_exception + 47
+3   PhonewordiOS                        0x00128902 mono_x86_throw_exception + 306
+4   ???                                 0x0b7ddf8f 0x0 + 192798607
+5   PhonewordiOS                        0x0026a9de monotouch_exception_handler + 158
+6   CoreFoundation                      0x040e5318 __handleUncaughtException + 728
+7   libobjc.A.dylib                     0x042920b9 _ZL15_objc_terminatev + 86
+8   libstdc++.6.dylib                   0x03f22652 _ZSt9terminatev + 21
+9   libobjc.A.dylib                     0x04292039 _destroyAltHandlerList + 0
+10  libdispatch.dylib                   0x04871027 _dispatch_client_callout + 33
+11  libdispatch.dylib                   0x048617d5 _dispatch_main_queue_callback_4CF + 296
+12  CoreFoundation                      0x04002af5 __CFRunLoopRun + 1925
+13  CoreFoundation                      0x04001f44 CFRunLoopRunSpecific + 276
+14  CoreFoundation                      0x04001e1b CFRunLoopRunInMode + 123
+15  GraphicsServices                    0x04f0a7e3 GSEventRunModal + 88
+16  GraphicsServices                    0x04f0a668 GSEventRun + 104
+17  UIKit                               0x0193bffc UIApplicationMain + 1211
+at (wrapper managed-to-native) MonoTouch.UIKit.UIApplication.UIApplicationMain (int,string[],intptr,intptr) <IL 0x00056, 0x000a4>
+at MonoTouch.UIKit.UIApplication.Main (string[],string,string) [0x0004c] in /Developer/MonoTouch/Source/monotouch/src/UIKit/UIApplication.cs:38
+at Phoneword.Application.Main (string[]) [0x00000] in /Users/kapilsethi/Documents/Kapil/MyGitRepos/Phoneword/PhonewordiOS/AppDelegate.cs:17
+at (wrapper runtime-invoke) <Module>.runtime_invoke_void_object (object,intptr,intptr,intptr) <IL 0x00049, 0x00077>
+22  PhonewordiOS                        0x0005d7a2 mono_jit_runtime_invoke + 722
+23  PhonewordiOS                        0x001c0c7e mono_runtime_invoke + 126
+24  PhonewordiOS                        0x001c4e74 mono_runtime_exec_main + 420
+25  PhonewordiOS                        0x001ca265 mono_runtime_run_main + 725
+26  PhonewordiOS                        0x000bae35 mono_jit_exec + 149
+27  PhonewordiOS                        0x00258c24 main + 1988
+28  PhonewordiOS                        0x0005674d start + 53
+29  ???                                 0x00000002 0x0 + 2
+
+2013-07-24 02:31:02.037 PhonewordiOS[7493:c07] Unhandled managed exception: Objective-C exception thrown.  Name: NSInvalidArgumentException Reason: Unable to parse the format string "marked contains '{Call" (MonoTouch.Foundation.MonoTouchException)
+  at (wrapper managed-to-native) MonoTouch.UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at MonoTouch.UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x0004c] in /Developer/MonoTouch/Source/monotouch/src/UIKit/UIApplication.cs:38 
+  at Phoneword.Application.Main (System.String[] args) [0x00000] in /Users/kapilsethi/Documents/Kapil/MyGitRepos/Phoneword/PhonewordiOS/AppDelegate.cs:17 
+Stacktrace:
+
+
+Native stacktrace:
+
+	0   PhonewordiOS                        0x000e5afc mono_handle_native_sigsegv + 284
+	1   PhonewordiOS                        0x0012bced sigabrt_signal_handler + 109
+	2   libsystem_c.dylib                   0x989ab8cb _sigtramp + 43
+	3   ???                                 0xffffffff 0x0 + 4294967295
+	4   libsystem_sim_c.dylib               0x048e057b abort + 140
+	5   PhonewordiOS                        0x0026a8eb monotouch_unhandled_exception_handler + 283
+	6   PhonewordiOS                        0x000e156c mono_invoke_unhandled_exception_hook + 140
+	7   PhonewordiOS                        0x000e567a mono_handle_exception_internal + 4154
+	8   PhonewordiOS                        0x000e57cf mono_handle_exception + 47
+	9   PhonewordiOS                        0x00128902 mono_x86_throw_exception + 306
+	10  ???                                 0x0b7ddf8f 0x0 + 192798607
+	11  PhonewordiOS                        0x0026a9de monotouch_exception_handler + 158
+	12  CoreFoundation                      0x040e5318 __handleUncaughtException + 728
+	13  libobjc.A.dylib                     0x042920b9 _ZL15_objc_terminatev + 86
+	14  libstdc++.6.dylib                   0x03f22652 _ZSt9terminatev + 21
+	15  libobjc.A.dylib                     0x04292039 _destroyAltHandlerList + 0
+	16  libdispatch.dylib                   0x04871027 _dispatch_client_callout + 33
+	17  libdispatch.dylib                   0x048617d5 _dispatch_main_queue_callback_4CF + 296
+	18  CoreFoundation                      0x04002af5 __CFRunLoopRun + 1925
+	19  CoreFoundation                      0x04001f44 CFRunLoopRunSpecific + 276
+	20  CoreFoundation                      0x04001e1b CFRunLoopRunInMode + 123
+	21  GraphicsServices                    0x04f0a7e3 GSEventRunModal + 88
+	22  GraphicsServices                    0x04f0a668 GSEventRun + 104
+	23  UIKit                               0x0193bffc UIApplicationMain + 1211
+	24  ???                                 0x0ec698bc 0x0 + 247896252
+	25  ???                                 0x0ec68728 0x0 + 247891752
+	26  ???                                 0x0ec68530 0x0 + 247891248
+	27  ???                                 0x0ec685bf 0x0 + 247891391
+	28  PhonewordiOS                        0x0005d7a2 mono_jit_runtime_invoke + 722
+	29  PhonewordiOS                        0x001c0c7e mono_runtime_invoke + 126
+	30  PhonewordiOS                        0x001c4e74 mono_runtime_exec_main + 420
+	31  PhonewordiOS                        0x001ca265 mono_runtime_run_main + 725
+	32  PhonewordiOS                        0x000bae35 mono_jit_exec + 149
+	33  PhonewordiOS                        0x00258c24 main + 1988
+	34  PhonewordiOS                        0x0005674d start + 53
+	35  ???                                 0x00000002 0x0 + 2
+
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
